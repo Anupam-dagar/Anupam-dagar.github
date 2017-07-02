@@ -1224,9 +1224,9 @@ display: block;
 }
 
 .logo a {
-  background: url(../images/logos/logo.svg) no-repeat 0 0;
-  background-size: 4.8rem;
-  width: 4.8rem;
+  background: url(../../images/personal_logo.png) no-repeat 0 0;
+  background-size: 24.8rem;
+  width: 24.8rem;
   height: 4.8rem;
   vertical-align: middle;
   float: left;
